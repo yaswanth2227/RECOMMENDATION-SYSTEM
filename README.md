@@ -74,3 +74,4 @@ providing a stepping stone to more advanced systems using libraries like scikit-
 
 OUTPUT:
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ebe54fc5-fb0b-43d1-9624-7dac93b65590" />
